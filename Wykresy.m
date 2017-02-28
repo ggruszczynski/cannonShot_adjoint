@@ -1,4 +1,3 @@
-
 figure ('name','vx(t), vy(t), const step');
 set(gcf,'Position',get(0,'Screensize')/1) % enlarge image to ( .../1.5) full screen
 
